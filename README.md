@@ -1,5 +1,10 @@
 ### Welcome to my page
 
+# A bit of social
+[<img align="left" alt="David Ansermot | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="David Ansermot | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="David Ansermot | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />][medium]
+
 <!--
 
 Here are some ideas to get you started:
@@ -13,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[stackoverflow]: https://stackoverflow.com/users/785593/david-ansermot
+[linkedin]: https://www.linkedin.com/in/davidansermot/
+[instagram]: https://www.instagram.com/marm.ch/
