@@ -10,19 +10,28 @@ Welcome to my Github profile.
 </p>
 
 ## :books: Languages
-
 <div>
   <img align="left" alt="Objective-C" width="26px" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" />
   <img align="left" alt="Swift" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" />
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align="left" alt="PHP" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
   <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="JQuery" width="26px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" />
   <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
   <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
   <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</p>
+<br />
+<br />
+
+## :wrench: Tools
+<div>
+  <img align="left" alt="Xcode" width="26px" src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" />
+  <img align="left" alt="Sublime Text" width="26px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
-  <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 <br />
 <br />
