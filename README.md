@@ -27,7 +27,7 @@ Welcome to my Github profile.
 <br />
 
 
-## :neckbeard: StackOverflow
+## :computer: StackOverflow
 <a href="https://stackoverflow.com/users/785593/david-ansermot"><img src="https://stackoverflow.com/users/flair/785593.png" width="208" height="58" alt="profile for David Ansermot at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for David Ansermot at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## :zap: GitHub Stats
