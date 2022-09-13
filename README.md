@@ -39,6 +39,14 @@ Welcome to my Github profile.
 <br />
 <br />
 
+## :black_joker: Hobbies
+We can keep in touch if you want to discuss about one of my hobbies<br />
+- :video_game: I love to play video games (Mario Kart, Dark souls, Elden ring, many more)
+- :ski: I like to go skiing, almost all weekends in winter
+- :smirk_cat: Got 3 cats
+- :leaves: I also like to do some gardening (have a 100m square garden in town)
+- :notes: I play drums (and scratching) and love to listen multiple sorts of music (mainly metal, electro/tech and hip-hop)
+
 ## :coffee: I need fuel
 We all know that coffee is the fuel of developers...<br /><br />
 <a href="https://www.buymeacoffee.com/mArm"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mArm&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
