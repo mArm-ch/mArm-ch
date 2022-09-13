@@ -6,12 +6,9 @@
 - [:link: Instagram][instagram]
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## :zap: GitHub Stats
+<img align="left" alt="mArm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mArm-ch&show_icons=true&hide_border=true&hide=stars" />
 
-  <img align="left" alt="mArm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mArm-ch&show_icons=true&hide_border=true&hide=stars" />
-
-</details>
 <!--
 
 Here are some ideas to get you started:
