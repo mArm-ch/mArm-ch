@@ -34,6 +34,7 @@ Welcome to my Github profile.
   <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
   <img align="left" alt="Confluence" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968793.png" />
   <img align="left" alt="Jira" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" />
+  <img align="left" alt="Gimp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" />
 </p>
 <br />
 <br />
