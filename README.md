@@ -46,6 +46,8 @@ We can keep in touch if you want to discuss about one of my hobbies<br />
 - :smirk_cat: Got 3 cats
 - :leaves: I also like to do some gardening (have a 100m square garden in town)
 - :notes: I play drums (and scratching) and love to listen multiple sorts of music (mainly metal, electro/tech and hip-hop)
+- :ramen: Keep in touch if like me you like to eat and cook (especially asian food)
+- :pencil2: Draw in my lost moments, take a look at my instagram
 
 ## :coffee: I need fuel
 We all know that coffee is the fuel of developers...<br /><br />
