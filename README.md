@@ -2,9 +2,9 @@
 
 ## :trollface: A bit of social
 <p>
-:link: [ StackOverflow][stackoverflow]<br />
-:link: [ LinkedIn][linkedin]<br />
-:link: [ Instagram][instagram]<br />
+[:link: StackOverflow][stackoverflow]<br />
+[:link: LinkedIn][linkedin]<br />
+[:link: nstagram][instagram]<br />
 </p>
 
 ## :zap: GitHub Stats
