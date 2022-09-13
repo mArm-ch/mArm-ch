@@ -1,10 +1,11 @@
 # Welcome to my page
 
-## A bit of social
-- [:link: StackOverflow][stackoverflow] 
-- [:link: LinkedIn][linkedin]
-- [:link: Instagram][instagram]
-
+## :trollface: A bit of social
+<p>
+:link: [StackOverflow][stackoverflow]<br />
+:link: [LinkedIn][linkedin]<br />
+:link: [Instagram][instagram]<br />
+</p>
 
 ## :zap: GitHub Stats
 <img align="left" alt="mArm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mArm-ch&show_icons=true&hide_border=true&hide=stars" />
