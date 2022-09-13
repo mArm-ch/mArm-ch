@@ -2,9 +2,9 @@
 
 ## :trollface: A bit of social
 <p>
-[:link: StackOverflow][stackoverflow]<br />
-[:link: LinkedIn][linkedin]<br />
-[:link: nstagram][instagram]<br />
+:link: <a href="https://stackoverflow.com/users/785593/david-ansermot" target="_blank" title="StackOverflow">StackOverflow</a><br />
+:link: LinkedIn][linkedin]<br />
+:link: nstagram][instagram]<br />
 </p>
 
 ## :zap: GitHub Stats
@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[stackoverflow]: https://stackoverflow.com/users/785593/david-ansermot
+[stackoverflow]: 
 [linkedin]: https://www.linkedin.com/in/davidansermot/
 [instagram]: https://www.instagram.com/marm.ch/
