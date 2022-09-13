@@ -32,6 +32,8 @@ Welcome to my Github profile.
   <img align="left" alt="Sublime Text" width="26px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
+  <img align="left" alt="Confluence" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968793.png" />
+  <img align="left" alt="Jira" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" />
 </p>
 <br />
 <br />
