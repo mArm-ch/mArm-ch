@@ -1,4 +1,5 @@
 # Welcome to my page
+<img align="left" alt="Coffees drunk since 2008 : 6850" src="https://img.shields.io/badge/Coffees%20drunk%20since%202008-6850-blue.svg" />
 Hello, I'm a swiss senior developer, mainly on iOS (Swift / Objective-C) and PHP.<br />
 Welcome to my Github profile.
 
