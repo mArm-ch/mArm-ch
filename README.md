@@ -1,4 +1,6 @@
 # Welcome to my page
+Hello, I'm a swiss senior developer, mainly on iOS (Swift / Objective-C) and PHP.<br />
+Welcome to my Github profile.
 
 ## :trollface: A bit of social
 <p>
