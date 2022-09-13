@@ -1,9 +1,9 @@
 # Welcome to my page
 
 ## A bit of social
-- [:LINK: StackOverflow][stackoverflow] 
-- [<img align="left" alt="David Ansermot | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] LinkedIn
-- [<img align="left" alt="David Ansermot | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/instagram.svg" />][instagram] Instagram
+- [:link: StackOverflow][stackoverflow] 
+- [:link: LinkedIn][linkedin]
+- [:link: Instagram][instagram]
 
 <!--
 
