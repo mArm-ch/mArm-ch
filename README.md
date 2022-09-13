@@ -3,8 +3,8 @@
 ## :trollface: A bit of social
 <p>
 :link: <a href="https://stackoverflow.com/users/785593/david-ansermot" target="_blank" title="StackOverflow">StackOverflow</a><br />
-:link: LinkedIn][linkedin]<br />
-:link: nstagram][instagram]<br />
+:link: <a href="https://www.linkedin.com/in/davidansermot/" target="_blank" title="LinkedIn">LinkedIn</a><br />
+:link: <a href="https://www.instagram.com/marm.ch/" target="_blank" title="Instagram">Instagram</a><br />
 </p>
 
 ## :zap: GitHub Stats
@@ -23,7 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[stackoverflow]: 
-[linkedin]: https://www.linkedin.com/in/davidansermot/
-[instagram]: https://www.instagram.com/marm.ch/
