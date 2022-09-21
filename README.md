@@ -59,11 +59,13 @@ We all know that coffee is the fuel of developers...<br /><br />
 
 ## :computer: StackOverflow
 <a href="https://stackoverflow.com/users/785593/david-ansermot"><img src="https://socards.ansermot.io/?nick=David%20Ansermot" alt="profile for David Ansermot at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for David Ansermot at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<br />
+<i>Credits : https://github.com/mArm-ch/stackoverflow-cards</i>
 
 ## :zap: GitHub Stats
 <img align="left" alt="mArm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mArm-ch&show_icons=true&hide_border=true&theme=prussian" />
-<br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /><br />
-<p><i>Credits : https://github.com/anuraghazra/github-readme-stats/</i></p>
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<i>Credits : https://github.com/anuraghazra/github-readme-stats/</i>
 
 <!--
 
