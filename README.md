@@ -2,7 +2,9 @@
 <img align="left" alt="Coffees drunk since 2008 : 6866" src="https://img.shields.io/badge/Coffees%20drunk%20since%202008-6866-blue.svg" />
 <br /><br />
 Hello, I'm a swiss senior developer, mainly on iOS (Swift / Objective-C) and PHP.<br />
-Welcome to my Github profile.
+I'm currently working at <a href="https://openwt.com/en/" target="_blank" tilte="Open Web Technology">Open Web Technology</a><br />
+
+<strong>Welcome to my Github profile !</strong>
 
 ## :trollface: A bit of social
 <p>
