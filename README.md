@@ -66,7 +66,7 @@ We all know that coffee is the fuel of developers...<br /><br />
 
 ## :zap: GitHub Stats
 <img align="left" alt="mArm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mArm-ch&show_icons=true&hide_border=true&theme=prussian" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <i>Credits : https://github.com/anuraghazra/github-readme-stats/</i>
 
 <!--
