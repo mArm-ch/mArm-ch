@@ -8,9 +8,10 @@ I'm currently working at <a href="https://openwt.com/en/" target="_blank" tilte=
 
 ## :trollface: A bit of social
 <p>
-:link: <a href="https://stackoverflow.com/users/785593/david-ansermot" target="_blank" title="StackOverflow">StackOverflow</a><br />
-:link: <a href="https://www.linkedin.com/in/davidansermot/" target="_blank" title="LinkedIn">LinkedIn</a><br />
-:link: <a href="https://www.instagram.com/marm.ch/" target="_blank" title="Instagram">Instagram</a><br />
+  :link: <a href="https://ansermot.io/" target="_blank" title="Ansermot.io">Ansermot.io</a><br />
+  :link: <a href="https://stackoverflow.com/users/785593/david-ansermot" target="_blank" title="StackOverflow">StackOverflow</a><br />
+  :link: <a href="https://www.linkedin.com/in/davidansermot/" target="_blank" title="LinkedIn">LinkedIn</a><br />
+  :link: <a href="https://www.instagram.com/marm.ch/" target="_blank" title="Instagram">Instagram</a><br />
 </p>
 
 ## :books: Languages
