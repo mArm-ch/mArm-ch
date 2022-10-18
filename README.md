@@ -61,7 +61,7 @@ We all know that coffee is the fuel of developers...<br /><br />
 <br /><br />
 
 ## :computer: StackOverflow
-<a href="https://stackoverflow.com/users/785593/david-ansermot"><img src="https://socards.ansermot.io/David+Ansermot" alt="profile for David Ansermot at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for David Ansermot at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/785593/david-ansermot"><img src="https://socards.ansermot.io/card/David+Ansermot" alt="profile for David Ansermot at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for David Ansermot at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br />
 <i>Credits : https://github.com/mArm-ch/stackoverflow-cards</i>
 
