@@ -1,5 +1,5 @@
 # Welcome to my page
-<img align="left" alt="Coffees drunk since 2008 : 6914" src="https://img.shields.io/badge/Coffees%20drunk%20since%202008-6914-blue.svg" />
+<img align="left" alt="Coffees drunk since 2008 : 6925" src="https://img.shields.io/badge/Coffees%20drunk%20since%202008-6925-blue.svg" />
 <br /><br />
 Hello, I'm a swiss senior developer, mainly on iOS (Swift / Objective-C) and PHP.<br />
 I'm currently working at <a href="https://openwt.com/en/" target="_blank" tilte="Open Web Technology">Open Web Technology</a><br />
