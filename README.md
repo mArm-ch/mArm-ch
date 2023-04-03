@@ -1,5 +1,5 @@
 # Welcome to my page
-<img align="left" alt="Coffees drunk since 2008 : 7008" src="https://img.shields.io/badge/Coffees%20drunk%20since%202008-7121-blue.svg" />
+<img align="left" alt="Coffees drunk since 2008 : 7135" src="https://img.shields.io/badge/Coffees%20drunk%20since%202008-7135-blue.svg" />
 <br /><br />
 Hello, I'm a swiss senior developer, mainly on iOS (Swift / Objective-C) and PHP.<br />
 I'm currently working at <a href="https://openwt.com/en/" target="_blank" tilte="Open Web Technology">Open Web Technology</a><br />
@@ -24,7 +24,7 @@ I'm currently working at <a href="https://openwt.com/en/" target="_blank" tilte=
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img align="left" alt="JQuery" width="26px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" />
   <img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" />
-  <img align="left" alt="Spring Boot" width="26px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" />
+  <img align="left" alt="Spring Boot" width="26px" src="https://spring.io/img/spring.svg" />
   <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
   <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
   <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
